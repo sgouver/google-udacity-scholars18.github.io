@@ -327,4 +327,26 @@
     - title: Github Profile
       icon: github
       url: https://github.com/FoteiniK
+        
+- name: Wonders of the World
+  banner: https://i.imgur.com/nvKj7YG.jpg
+  links:
+    - title: Live Page
+      icon: web
+      url: https://sgouver.github.io/wotw/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/sgouver/wotw
+  description: |
+The project is an interactive world map with all the new and the old Wonders of the world. It was created from scratch as a part of Udacity's curriculum. It manifest the Google API and Wikipedia API to create an interactive and informative environment.  
+  author: Stefanos Gkouveris
+  author_avatar: https://i.imgur.com/TKHWiJa.jpg
+  author_location: Essex,UK
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/stefanos-gkouveris/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/sgouver
       
